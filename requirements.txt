@@ -1,0 +1,6 @@
+streamlit 
+openai
+os
+langchain
+langchain_openai
+pillow
