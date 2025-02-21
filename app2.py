@@ -92,3 +92,6 @@ elif input_option == "Enter City/State/District":
         location_string = f"{city_input or ''}, {state_input or ''}, {district_input or ''}"
         st.subheader("Country:")
         st.write(location_string)
+if __name__ == "__main__":
+    st.run()        
+        
